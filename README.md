@@ -24,7 +24,7 @@ This project implements a deep learning model to estimate car speed using a sequ
 
 ## ▶️ Run in Colab
 
-[📎 Open Notebook](https://colab.research.google.com/github/your-username/speed-estimation-project/blob/main/2020142046_최현.ipynb)
+[📎 Open Notebook](https://colab.research.google.com/github/choihyun-1110/Deep_learning_study/blob/main/2020142046_%EC%B5%9C%ED%98%84.ipynb)
 
 
 
